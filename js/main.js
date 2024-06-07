@@ -1,4 +1,4 @@
-let pantalla = document.getElementById("pantalla");
+let pantalla = document.getElementsByClassName("pantalla");
 let tecla = document.getElementsByClassName("tecla");
 
 for (let i = 0; index < tecla.length; i++) {

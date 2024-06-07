@@ -5,7 +5,7 @@
     padding-left: 500px;
 }
 
-.pantalla{
+#pantalla{
     border: 1px solid blue;
     grid-column: 1/5;
     grid-row: 1/2;
