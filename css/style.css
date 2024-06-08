@@ -13,7 +13,7 @@
     background-color: gainsboro;
 }
 
-.tecla{
+.tecla, .operacion{
     border: 1px solid blue;
     background-color: yellowgreen;
     text-align: center;
@@ -24,3 +24,24 @@
     background-color: coral;
 }/*este bloque sirve para que al posicionar el cursor sobre
 una caja, esta cambie de color*/
+
+#igual{
+    border: 1px solid blue;
+    background-color: yellowgreen;
+    text-align: center;
+    line-height: 75px;
+}
+
+#borrarTodo{
+    border: 1px solid blue;
+    background-color: yellowgreen;
+    text-align: center;
+    line-height: 75px;
+}
+
+#borrarUno{
+    border: 1px solid blue;
+    background-color: yellowgreen;
+    text-align: center;
+    line-height: 75px;
+}
